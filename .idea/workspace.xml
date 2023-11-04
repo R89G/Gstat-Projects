@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-
     <list default="true" id="386f2648-b8a3-4972-90ff-eb70312d7bba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Analytics Dashboard-creative.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Churm Pivot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Customer Churn - G Stat Final Project.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Customer Churn Groups and Services - Beautiful.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Customer Pivots.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Final Analysis.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Pivot Payments.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Tel_Zip_Pop.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Telecom Customer Churn - G Stat Final Project.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/Telecom+Customer+Churn.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/customer.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Customer Churm Project/tel_customer_churm.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pbulishare Proj.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Transport Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/royge/OneDrive/שולחן העבודה/Git_Projects/G_Stat Projects",
     "settings.editor.selected.configurable": "advanced.settings"
   }
