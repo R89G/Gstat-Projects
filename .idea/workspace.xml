@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="386f2648-b8a3-4972-90ff-eb70312d7bba" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Customer Churm Project/Analytics Dashboard-creative.pptx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Customer Churm Project/Churm Pivot.png" afterDir="false" />
@@ -20,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/Pbulishare Proj.sql" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Transport Diagram.png" beforeDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Cust-Proj",
     "last_opened_file_path": "C:/Users/royge/OneDrive/שולחן העבודה/Git_Projects/G_Stat Projects",
     "settings.editor.selected.configurable": "advanced.settings"
   }
