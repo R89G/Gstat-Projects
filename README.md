@@ -7,7 +7,6 @@ I am a data analyst with experience using various tools and technologies to coll
 
 In this portfolio, I have included a variety of projects at Gstat that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools such as Power BI, SQL, and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
 
-My main project was Mexican restarant. The project assist restaurant industry to analyze the main objects (prices,cars..),crucial times to serve and what, tipe of customers and more elemants lead to high paying amount and prices. 
-the lceture, one of the top in Israel feedback the project in high level. Next to ist, The Customer PPT was  a project i did in the couirse with two firends and also succeeded well.
+My main project was a Mexican restaurant. The project assists restaurant industry to analyze the main objects (prices, cars..), crucial times to serve and what, type of customers and more elements lead to high paying amount and prices. the lceture, one of the top in Israel feedback the project at a high level. Next to ist, The Customer project I did in the course with two friends and also succeeded well.
 
 Thank you for your time, I look forward to hearing from you soon.
