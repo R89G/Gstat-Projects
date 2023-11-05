@@ -11,4 +11,4 @@ My main project was a Mexican restaurant. The project assists restaurant industr
 
 Thank you for your time, I look forward to hearing from you soon.
 
-lets connect through Linkedin : https://www.linkedin.com/in/roygenis/ [https://www.linkedin.com/in/roygenis/](url)
+lets connect through Linkedin : https://www.linkedin.com/in/roygenis/ [Roy Genis](url)
