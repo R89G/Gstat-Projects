@@ -10,3 +10,5 @@ In this portfolio, I have included a variety of projects at Gstat that showcase 
 My main project was a Mexican restaurant. The project assists restaurant industry to analyze the main objects (prices, cars..), crucial times to serve and what, type of customers and more elements lead to high paying amount and prices. the lceture, one of the top in Israel feedback the project at a high level. Next to ist, The Customer project I did in the course with two friends and also succeeded well.
 
 Thank you for your time, I look forward to hearing from you soon.
+
+lets connect through Linkedin : 
